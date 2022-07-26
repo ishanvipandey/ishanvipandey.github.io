@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MS in Physics and Mathematics, St. Petersburg State University, 2024
+* BS in Physics and Mathematics, Lucknow University, 2022
+<!-- * M.S. in Jekyll, GitHub University, 2014 -->
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Winter 2021: Research Intern
+  * International Centre for Theoretical Sciences (ICTS)
+  * Duties included: conducted research, compiled the data, implemented some ideas, and helped in writing papers
+  * Supervisor: Rukmini Dey
+
+* Summer 2019: Paper Reviewer
+  * Physics Paper
+  * Duties included: Reviewing the solved problems
+
+
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python
+* Developer Tools: LaTeX
+* Technology/Frameworks: Linux
+
+<!-- Achievements
+======
+* 1790+ rating on CodeChef
+* 500+ problems solved in Data Structure and Algorithms
+* 3530 Rank in Round E of Google Kickstart 2021 -->
 
 Publications
 ======
@@ -42,18 +52,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
