@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ishanvi Pandey"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "Post-Grad Researcher in SPbSU"
   location         : "Moscow, Russia"
   employer         : 
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : 
   email            : ishanvipandey.09@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/ishanvi-pandey-b217b5242/"
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
