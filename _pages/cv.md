@@ -46,11 +46,11 @@ Skills
 * 500+ problems solved in Data Structure and Algorithms
 * 3530 Rank in Round E of Google Kickstart 2021 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
